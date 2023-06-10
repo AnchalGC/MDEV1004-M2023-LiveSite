@@ -9,6 +9,10 @@
   "main": "server.js",
   "license": "MIT",
   "private": true,
+  "engines": {
+    "node": "18.16.0",
+    "npm": "9.5.1"
+  },
   "dependencies": {
     "@types/http-errors": "^2.0.1",
     "cookie-parser": "^1.4.6",
