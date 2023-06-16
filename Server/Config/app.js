@@ -6,6 +6,8 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const express_1 = __importDefault(require("express"));
 const cookie_parser_1 = __importDefault(require("cookie-parser"));
 const morgan_1 = __importDefault(require("morgan"));
+const passport_local_1 = __importDefault(require("passport-local"));
+let localStrategy = passport_local_1.default.Strategy;
 const mongoose_1 = __importDefault(require("mongoose"));
 const db_1 = __importDefault(require("./db"));
 mongoose_1.default.connect(db_1.default.remoteURI);
