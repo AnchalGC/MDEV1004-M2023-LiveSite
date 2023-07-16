@@ -1,272 +1,556 @@
 [
   {
     "movieID": 1,
-    "title": "Star Wars: Episode V - The Empire Strikes Back",
-    "studio": "Twentieth Century Fox",
+    "title": "Dilwale Dulhania Le Jayenge",
+    "studio": "Yash Raj Films",
     "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
+      "Romance",
+      "Drama"
     ],
     "directors": [
-      "Irvin Kershner"
+      "Aditya Chopra"
     ],
     "writers": [
-      "Leigh Brackett",
-      "Lawrence Kasdan",
-      "George Lucas"
+      "Aditya Chopra"
     ],
     "actors": [
-      "Mark Hamill",
-      "Harrison Ford",
-      "Carrie Fisher"
+      "Shah Rukh Khan",
+      "Kajol"
     ],
-    "year": 1980,
-    "length": 124,
-    "shortDescription": "After the Rebels are overpowered by the Empire, Luke Skywalker begins his Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett.",
+    "year": 1995,
+    "length": 185,
+    "shortDescription": "A young man tries to win over the woman he loves by convincing her traditional father of their love",
     "mpaRating": "PG",
-    "criticsRating": 8.7
+    "criticsRating": 9,
+    "posterlink": "https://www.imdb.com/title/tt0112870/mediaviewer/rm3140497664/?ref_=tt_ov_i"
   },
   {
     "movieID": 2,
-    "title": "The Matrix",
-    "studio": "Warner Bros. Pictures",
+    "title": "3 Idiots",
+    "studio": "Vinod Chopra Films",
     "genres": [
-      "Action",
-      "Sci-Fi"
+      "Comedy",
+      "Drama"
     ],
     "directors": [
-      "Lana Wachowski",
-      "Lilly Wachowski"
+      "Rajkumar Hirani"
     ],
     "writers": [
-      "Lana Wachowski",
-      "Lilly Wachowski"
+      "Rajkumar Hirani",
+      "Abhijat Joshi"
     ],
     "actors": [
-      "Keanu Reaves",
-      "Laurence Fishburne",
-      "Carrie-Anne Moss"
+      "Aamir Khan",
+      "R. Madhavan",
+      "Sharman Joshi"
     ],
-    "year": 1999,
-    "length": 136,
-    "shortDescription": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
-    "mpaRating": "R",
-    "criticsRating": 8.7
+    "year": 2009,
+    "length": 170,
+    "shortDescription": "Three friends reunite at an engineering college and challenge the education system while dealing with personal struggles.",
+    "mpaRating": "PG-13",
+    "criticsRating": 8.5,
+    "posterlink": "https://www.imdb.com/title/tt1187043/mediaviewer/rm2029391104/?ref_=tt_ov_i"
   },
   {
     "movieID": 3,
-    "title": "Star Wars: Episode IV - A New Hope",
-    "studio": "Twentieth Century Fox",
+    "title": "Kabhi Khushi Kabhie Gham...",
+    "studio": "Dharma Productions",
     "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
+      "Drama",
+      "Romance"
     ],
     "directors": [
-      "George Lucas"
+      "Karan Johar"
     ],
     "writers": [
-      "George Lucas"
+      "Karan Johar",
+      "Sheena Parikh"
     ],
     "actors": [
-      "Mark Hamill",
-      "Harrison Ford",
-      "Carrie Fisher"
+      "Amitabh Bachchan",
+      "Shah Rukh Khan",
+      "Kajol",
+      "Hrithik Roshan",
+      "Kareena Kapoor"
     ],
-    "year": 1977,
-    "length": 121,
-    "shortDescription": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
-    "mpaRating": "PG",
-    "criticsRating": 8.6
+    "year": 2001,
+    "length": 210,
+    "shortDescription": "A family drama revolving around a man's relationships with his sons and their romantic entanglements.",
+    "mpaRating": "Pg",
+    "criticsRating": 7.9,
+    "posterlink": "https://www.imdb.com/title/tt0248126/mediaviewer/rm1675315968/?ref_=tt_ov_i"
   },
   {
     "movieID": 4,
-    "title": "Back to the Future",
-    "studio": "Universal Pictures",
+    "title": "Lagaan: Once Upon a Time in India",
+    "studio": "Aamir Khan Productions",
     "genres": [
-      "Adventure",
-      "Comedy",
-      "Sci-Fi"
+      "Drama",
+      "Sport"
     ],
     "directors": [
-      "Robert Zemeckis"
+      "Ashutosh Gowariker"
     ],
     "writers": [
-      "Robet Zemeckis",
-      "Bob Gale"
+      "Ashutosh Gowariker",
+      "Kumar Dave",
+      "Sanjay Dayma"
     ],
     "actors": [
-      "Michael J. Fox",
-      "Christopher Lloyd",
-      "Lea Thompson"
+      "Aamir Khan",
+      "Gracy Singh"
     ],
-    "year": 1985,
-    "length": 116,
-    "shortDescription": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+    "year": 2001,
+    "length": 224,
+    "shortDescription": "Set in British India, a village challenges their colonizers to a game of cricket to escape oppressive taxes.",
     "mpaRating": "PG",
-    "criticsRating": 8.5
+    "criticsRating": 8.3,
+    "posterlink": "https://www.imdb.com/title/tt0169102/mediaviewer/rm4183241728/?ref_=tt_ov_i"
   },
   {
     "movieID": 5,
-    "title": "Alien",
-    "studio": "Twentieth Century Fox",
+    "title": "Rang De Basanti",
+    "studio": "Rakeysh Omprakash Mehra Pictures",
     "genres": [
-      "Horror",
-      "Sci-Fi"
+      "Drama"
     ],
     "directors": [
-      "Ridley Scott"
+      "Rakeysh Omprakash Mehra"
     ],
     "writers": [
-      "Dan O'Bannon",
-      "Ronald Shusett"
+      "Rensil D'Silva",
+      "Rakeysh Omprakash Mehra"
     ],
     "actors": [
-      "Sigourney Weaver",
-      "Tom Skerritt",
-      "John Hurt"
+      "Aamir Khan",
+      "Siddharth",
+      "Kunal Kapoor",
+      "Soha Ali Khan"
     ],
-    "year": 1979,
-    "length": 117,
-    "shortDescription": "The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission.",
+    "year": 2006,
+    "length": 157,
+    "shortDescription": "A group of university students transforms into revolutionary figures after acting in a documentary about India's freedom fighters.",
     "mpaRating": "R",
-    "criticsRating": 8.5
+    "criticsRating": 8.2,
+    "posterlink": "https://www.imdb.com/title/tt0405508/mediaviewer/rm1350078977/?ref_=tt_ov_i"
   },
   {
     "movieID": 6,
-    "title": "Raiders of th Lost Ark",
-    "studio": "Paramount Pictures",
+    "title": "Sholey",
+    "studio": "Ramesh Sippy Entertainment",
     "genres": [
-      "Action",
-      "Adventure"
+      "Drama, Romance"
     ],
     "directors": [
-      "Steven Spielberg"
+      "Ramesh Sippy"
     ],
     "writers": [
-      "Lawrence Kasdan",
-      "George Lucas",
-      "Philip Kaufman"
+      "Salim Khan",
+      "Javed Akhtar"
     ],
     "actors": [
-      "Harrison Ford",
-      "Karen Allen",
-      "Paul Freeman"
+      "Dharmendra",
+      "Amitabh Bachchan",
+      "Hema Malini",
+      "Sanjeev Kumar",
+      "Amjad Khan"
     ],
-    "year": 1981,
-    "length": 115,
-    "shortDescription": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis can obtain its awesome powers.",
+    "year": 1975,
+    "length": 204,
+    "shortDescription": "Two criminals, Veeru and Jai, are hired by a retired police officer to capture",
     "mpaRating": "PG",
-    "criticsRating": 8.4
+    "criticsRating": 8.2,
+    "posterlink": "https://www.imdb.com/title/tt0073707/mediaviewer/rm3522305792/?ref_=tt_ov_i"
   },
   {
     "movieID": 7,
-    "title": "Blade Runner",
-    "studio": "Warner Bros. Pictures",
+    "title": "Kabhi Alvida Naa Kehna",
+    "studio": "Dharma Productions",
     "genres": [
-      "Action",
       "Drama",
-      "Sci-Fi"
+      "Romance,Comedy"
     ],
     "directors": [
-      "Ridley Scott"
+      "Karan Johar"
     ],
     "writers": [
-      "Hampton Fancher",
-      "David Webb Peoples",
-      "Philip K. Dick"
+      "Karan Johar",
+      "Shibani Bathija"
     ],
     "actors": [
-      "Harrison Ford",
-      "Rutger Hauer",
-      "Sean Young"
+      "Shah Rukh Khan",
+      "Rani Mukerji",
+      "Abhishek Bachchan",
+      "Preity Zinta"
     ],
-    "year": 1982,
-    "length": 117,
-    "shortDescription": "A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.",
-    "mpaRating": "R",
-    "criticsRating": 8.1
+    "year": 2006,
+    "length": 180,
+    "shortDescription": "The film explores themes of extramarital affairs, love, and relationships among two married couples.",
+    "mpaRating": "PG-13",
+    "criticsRating": 7.5,
+    "posterlink": "https://www.imdb.com/title/tt0449999/mediaviewer/rm1789348352/?ref_=tt_ov_i"
   },
   {
     "movieID": 8,
-    "title": "The Terminator",
-    "studio": "Orion Pictures",
+    "title": "Kuch Kuch Hota Hai",
+    "studio": "Dharma Productions",
     "genres": [
       "Action",
       "Sci-Fi"
     ],
     "directors": [
-      "James Cameron"
+      "Karan Johar"
     ],
     "writers": [
-      "James Cameron",
-      "Gale Anne Hurd",
-      "William Wisher"
+      "Karan Johar"
     ],
     "actors": [
-      "Arnold Schwarzenegger",
-      "Linda Hamilton",
-      "Michael Biegn"
+      "Shah Rukh Khan",
+      "Kajol",
+      "Rani Mukerji",
+      "Salman Khan"
     ],
-    "year": 1984,
-    "length": 107,
-    "shortDescription": "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.",
-    "mpaRating": "R",
-    "criticsRating": 8.1
+    "year": 1988,
+    "length": 185,
+    "shortDescription": "A story of love and friendship between three individuals, spanning their college days to adulthood.",
+    "mpaRating": "PG",
+    "criticsRating": 7.8,
+    "posterlink": "https://www.imdb.com/title/tt0172684/mediaviewer/rm38094080/?ref_=tt_ov_i"
   },
   {
     "movieID": 9,
-    "title": "The Princess Bride",
-    "studio": "Twentieth Century Fox",
+    "title": "Gully Boy",
+    "studio": "Excel Entertainment, Tiger Baby Productions",
     "genres": [
-      "Adventure",
-      "Comedy",
-      "Family"
+      "Drama, Music"
     ],
     "directors": [
-      "Rob Reiner"
+      "Zoya Akhtar"
     ],
     "writers": [
-      "William Goldman"
+      "Zoya Akhtar",
+      "Reema Kagti",
+      "Vijay Maurya"
     ],
     "actors": [
-      "Cary Elwes",
-      "Mandy Patinkin",
-      "Robin Wright"
+      "Ranveer Singh",
+      "Alia Bhatt",
+      "Siddhant Chaturvedi"
     ],
-    "year": 1987,
-    "length": 98,
-    "shortDescription": "A bedridden boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.",
-    "mpaRating": "PG",
-    "criticsRating": 8
+    "year": 2019,
+    "length": 153,
+    "shortDescription": "Inspired by the lives of Indian street rappers, the film follows a young man from the slums who dreams of becoming a rap artist.",
+    "mpaRating": "R",
+    "criticsRating": 8.4,
+    "posterlink": "https://www.imdb.com/title/tt2395469/mediaviewer/rm2536928512/?ref_=tt_ov_i"
   },
   {
     "movieID": 10,
-    "title": "Star Trek II: The Wrath of Khan",
-    "studio": "Paramount Pictures",
+    "title": "Dangal",
+    "studio": "Aamir Khan Productions",
     "genres": [
-      "Action",
-      "Adventure",
-      "Sci-Fi"
+      "Biographical",
+      "Sports",
+      "Drama"
     ],
     "directors": [
-      "Nicholas Meyer"
+      "Nitesh Tiwari"
     ],
     "writers": [
-      "Gene Roddenberry",
-      "Jack B. Sowards",
-      "Harve Bennett"
+      "Nitesh Tiwari",
+      "Piyush Gupta",
+      "Shreyas Jain",
+      "Nikhil Mehrotra"
     ],
     "actors": [
-      "William Shatner",
-      "Leonard Nimoy",
-      "DeForest Kelley"
+      "Aamir Khan",
+      "Sakshi Tanwar",
+      "Fatima Sana Shaikh"
     ],
-    "year": 1982,
-    "length": 113,
-    "shortDescription": "With the assistance of the Enterprise crew, Admiral Kirk must stop an old nemesis, Khan Noonien Singh, from using the life-generating Genesis Device as the ultimate weapon.",
+    "year": 2016,
+    "length": 161,
+    "shortDescription": "Based on the true story of wrestler Mahavir Singh Phogat, who trains his daughters to become world-class wrestlers.",
     "mpaRating": "PG",
-    "criticsRating": 7.7
+    "criticsRating": 8.5,
+    "posterlink": "https://www.imdb.com/title/tt5074352/mediaviewer/rm3039822848/?ref_=tt_ov_i"
+  },
+  {
+    "movieID": 11,
+    "title": "Andhadhun",
+    "studio": "Viacom18 Motion Pictures",
+    "genres": [
+      "Thriller",
+      "Mystery",
+      "Comedy"
+    ],
+    "directors": [
+      "Sriram Raghavan"
+    ],
+    "writers": [
+      "Sriram Raghavan",
+      "Arijit Biswas",
+      "Pooja Ladha Surti",
+      "Yogesh Chandekar",
+      "Hemanth Rao"
+    ],
+    "actors": [
+      "Ayushmann Khurrana",
+      "Tabu",
+      "Radhika Apte"
+    ],
+    "year": 2018,
+    "length": 139,
+    "shortDescription": "A visually impaired pianist becomes embroiled in a murder mystery, blurring the line between reality and deception.",
+    "mpaRating": "R",
+    "criticsRating": 8.3,
+    "posterlink": "https://www.imdb.com/title/tt8108198/mediaviewer/rm1843230976/?ref_=tt_ov_i"
+  },
+  {
+    "movieID": 12,
+    "title": "Queen",
+    "studio": "Phantom Films",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "directors": [
+      "Vikas Bahl"
+    ],
+    "writers": [
+      "Vikas Bahl",
+      "Chaitally Parmar",
+      "Parveez Sheikh"
+    ],
+    "actors": [
+      "Kangana Ranaut",
+      "Rajkummar Rao"
+    ],
+    "year": 2013,
+    "length": 146,
+    "shortDescription": "A young woman goes on a solo honeymoon to Europe after her fiancé cancels their wedding, leading to self-discovery and empowerment.",
+    "mpaRating": "PG-13",
+    "criticsRating": 8.4,
+    "posterlink": "https://www.imdb.com/title/tt3322420/mediaviewer/rm857046528/?ref_=tt_ov_i"
+  },
+  {
+    "movieID": 13,
+    "title": "Gangs of Wasseypur",
+    "studio": "Anurag Kashyap Films",
+    "genres": [
+      "Crime, Drama"
+    ],
+    "directors": [
+      "Anurag Kashyap"
+    ],
+    "writers": [
+      "Zeishan Quadri",
+      "Anurag Kashyap",
+      "Sachin Ladia",
+      "Akhilesh Jaiswal"
+    ],
+    "actors": [
+      "Manoj Bajpayee",
+      "Nawazuddin Siddiqui",
+      "Richa Chadda",
+      "Huma Qureshi"
+    ],
+    "year": 2012,
+    "length": 320,
+    "shortDescription": "An epic tale spanning generations, centered around the coal mafia and power struggles in the town of Wasseypur.",
+    "mpaRating": "PG",
+    "criticsRating": 8.2,
+    "posterlink": "https://www.imdb.com/title/tt1954470/mediaviewer/rm3981377280/?ref_=tt_ov_i"
+  },
+  {
+    "movieID": 14,
+    "title": "Zindagi Na Milegi Dobara",
+    "studio": "Excel Entertainment",
+    "genres": [
+      "Dama",
+      "Comedy",
+      "Adventure"
+    ],
+    "directors": [
+      "Zoya Akhtar"
+    ],
+    "writers": [
+      "Zoya Akhtar",
+      "Reema Kagti"
+    ],
+    "actors": [
+      "Hrithik Roshan",
+      "Farhan Akhtar",
+      "Abhay Deol",
+      "Katrina Kaif"
+    ],
+    "year": 2011,
+    "length": 155,
+    "shortDescription": "Three friends embark on a road trip in Spain, where they discover the importance of seizing the day and overcoming their fears.",
+    "mpaRating": "R",
+    "criticsRating": 8.1,
+    "posterlink": "https://www.imdb.com/title/tt1562872/mediaviewer/rm968548608/?ref_=tt_ov_i"
+  },
+  {
+    "movieID": 15,
+    "title": "Bajirao Mastani",
+    "studio": "Bhansali Productions",
+    "genres": [
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "directors": [
+      "Sanjay Leela Bhansal"
+    ],
+    "writers": [
+      "Sanjay Leela Bhansali",
+      "Prakash Kapadia"
+    ],
+    "actors": [
+      "Ranveer Singh",
+      "Deepika Padukone",
+      "Priyanka Chopra"
+    ],
+    "year": 2015,
+    "length": 158,
+    "shortDescription": "Bajirao Mastani\" is a historical romantic drama film directed by Sanjay Leela Bhansali. Released in 2015, the film portrays the epic love story of Bajirao I, a renowned Maratha warrior, and Mastani, a warrior princess.",
+    "mpaRating": "PG",
+    "criticsRating": 9,
+    "posterlink": "https://www.imdb.com/title/tt3735246/mediaviewer/rm1687478528/?ref_=tt_ov_i"
+  },
+  {
+    "movieID": 16,
+    "title": "Taare Zameen Par",
+    "studio": "Aamir Khan Productions",
+    "genres": [
+      "Drama, Family"
+    ],
+    "directors": [
+      "Aamir Khan"
+    ],
+    "writers": [
+      "Amole Gupte"
+    ],
+    "actors": [
+      "Darsheel Safary",
+      "Aamir Khan",
+      "Tisca Chopra"
+    ],
+    "year": 2007,
+    "length": 155,
+    "shortDescription": "A dyslexic child finds solace and guidance from a new art teacher who helps him overcome his challenges and discover his true potential.",
+    "mpaRating": "PG",
+    "criticsRating": 8.4,
+    "posterlink": "https://www.imdb.com/title/tt0986264/mediaviewer/rm2495765504/?ref_=tt_ov_i"
+  },
+  {
+    "movieID": 17,
+    "title": "Chhichhore",
+    "studio": "Nadiadwala Grandson Entertainment, Fox Star Studios",
+    "genres": [
+      "Comedy, Drama"
+    ],
+    "directors": [
+      "Nitesh Tiwari"
+    ],
+    "writers": [
+      "Nitesh Tiwari",
+      "Piyush Gupta",
+      "Nikhil Mehrotra"
+    ],
+    "actors": [
+      "Sushant Singh Rajput",
+      "Shraddha Kapoor",
+      "Varun Sharma"
+    ],
+    "year": 2019,
+    "length": 146,
+    "shortDescription": "A group of friends reunite after many years and recall their college days, exploring themes of friendship, love, and success.",
+    "mpaRating": "PG-13",
+    "criticsRating": 8.2,
+    "posterlink": "https://www.imdb.com/title/tt9052870/mediaviewer/rm3906899969/?ref_=tt_ov_i"
+  },
+  {
+    "movieID": 18,
+    "title": "Barfi",
+    "studio": "UTV Motion Pictures, Ishana Movies",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "directors": [
+      "Anurag Basu"
+    ],
+    "writers": [
+      "Aurag Basu",
+      "Tani Basu"
+    ],
+    "actors": [
+      "Ranbir Kapoor",
+      "Priyanka Chopra"
+    ],
+    "year": 2012,
+    "length": 151,
+    "shortDescription": "A deaf and mute man, his relationship with two women, and their journey filled with love, heartbreak, and self-discovery.",
+    "mpaRating": "R",
+    "criticsRating": 8.1,
+    "posterlink": "https://www.imdb.com/title/tt2082197/mediaviewer/rm603112192/?ref_=tt_ov_i"
+  },
+  {
+    "movieID": 19,
+    "title": "Andaz Apna Apna",
+    "studio": "VInay Pictures",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "directors": [
+      "Rajkumar Santoshi"
+    ],
+    "writers": [
+      "Rajkumar Santoshi",
+      "Dilip Shukla"
+    ],
+    "actors": [
+      "Aamir Khan",
+      "Salman Khan",
+      "Raveena Tandon",
+      "Karisma Kapoor"
+    ],
+    "year": 1994,
+    "length": 160,
+    "shortDescription": "Two slackers compete for the affection of a wealthy heiress while getting involved in a hilarious series of misunderstandings and mishaps.",
+    "mpaRating": "PG",
+    "criticsRating": 8.2,
+    "posterlink": "https://www.imdb.com/title/tt0109117/mediaviewer/rm1332554497/?ref_=tt_ov_i"
+  },
+  {
+    "movieID": 20,
+    "title": "Dil Chahta Hai",
+    "studio": "Excel Entertainment",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "directors": [
+      "Farhan Akhtar"
+    ],
+    "writers": [
+      "Farhan Akhtar",
+      "Kassim Jagmagia"
+    ],
+    "actors": [
+      "Aamir Khan",
+      "Saif Ali Khan",
+      "Akshaye Khanna",
+      "Preity Zinta"
+    ],
+    "year": 2001,
+    "length": 183,
+    "shortDescription": "The story revolves around the lives of three friends, their relationships, and the ups and downs they face in their personal lives.",
+    "mpaRating": "R",
+    "criticsRating": 8.1,
+    "posterlink": "https://www.imdb.com/title/tt0292490/mediaviewer/rm2486146561/?ref_=tt_ov_i"
   }
 ]
