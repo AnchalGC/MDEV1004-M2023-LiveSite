@@ -1,2 +1,3 @@
-# MDEV1004 - M2023 - ICE 5
-Demo project for In-Class Exercise 5 in the Summer 2023 Semester at Georgian Collegegit
+# MDEV1004 - M2023 - ICE 6
+
+Demo project for In-Class Exercise 6 in the Summer 2023 Semester at Georgian Collegegit
