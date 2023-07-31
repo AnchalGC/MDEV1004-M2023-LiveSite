@@ -1,7 +1,7 @@
 {
   "name": "mdev1004-m2023-livesite",
   "version": "0.0.3",
-  "description": "This is a project for MDEV1004 - Livesite - in the Summer 2023 semester at Georgian ",
+  "description": "This is a project for MDEV1004 - livesite - in the Summer 2023 semester at Georgian ",
   "author": "Anchal Pundeer",
   "engines": {
     "node": "18.16.0",

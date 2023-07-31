@@ -93,6 +93,9 @@ let strategy = new JWTStrategy(jwtOptions, function(jwt_payload, done)
 
 passport.use(strategy);
 
+
 app.use('/api/', indexRouter);
+
+//app.use('/api/', passport.authenticate('jwt', { session: false }), indexRouter);
 
 export default app;

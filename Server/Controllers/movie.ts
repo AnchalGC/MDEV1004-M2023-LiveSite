@@ -7,22 +7,18 @@ import Movie from '../Models/movie';
 
 import { GenerateToken } from '../Util/index';
 
-//Utility function
-function SanitizeArray(unsanitizedString: string): string[]
+// Utility Function
+function SanitizeArray(unsanitizedValue: string | string[]): string[] 
 {
-    if(unsanitizedString == null || unsanitizedString == undefined)
+    if (Array.isArray(unsanitizedValue)) 
     {
-        return Array<string>();
-    }
-
-    let unsanitizedArray: string[] = unsanitizedString.split(',');
-
-    let sanitizedArray: string[] = Array<string>();
-    for (const unsanitizedString of unsanitizedArray) 
+        return unsanitizedValue.map((value) => value.trim());
+    } else if (typeof unsanitizedValue === "string") 
     {
-        sanitizedArray.push(unsanitizedString.trim());
+        return unsanitizedValue.split(",").map((value) => value.trim());
+    } else {
+        return [];
     }
-    return sanitizedArray;
 }
 
 //* Authentication Functions */
@@ -157,10 +153,10 @@ export function AddMovie(req: Request, res: Response, next: NextFunction): void
 {
     try
     {
-        let genres = SanitizeArray(req.body.genres as string);
-        let directors = SanitizeArray(req.body.directors as string);
-        let writers = SanitizeArray(req.body.writers as string);
-        let actors = SanitizeArray(req.body.actors as string);
+        let genres = SanitizeArray(req.body.genres);
+        let directors = SanitizeArray(req.body.directors);
+        let writers = SanitizeArray(req.body.writers);
+        let actors = SanitizeArray(req.body.actors);
 
         let movie = new Movie({
            movieID: req.body.movieID,
@@ -207,10 +203,10 @@ export function UpdateMovie(req: Request, res: Response, next: NextFunction): vo
     try
     {
         let id = req.params.id;
-        let genres = SanitizeArray(req.body.genres as string);
-        let directors = SanitizeArray(req.body.directors as string);
-        let writers = SanitizeArray(req.body.writers as string);
-        let actors = SanitizeArray(req.body.actors as string);
+        let genres = SanitizeArray(req.body.genres);
+        let directors = SanitizeArray(req.body.directors);
+        let writers = SanitizeArray(req.body.writers);
+        let actors = SanitizeArray(req.body.actors);
     
         let movieToUpdate = new Movie({
            _id: id,
